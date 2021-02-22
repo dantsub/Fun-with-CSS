@@ -146,4 +146,4 @@ By using this HTML:
 
 ## Author
 
-**Joshua Martinez** [dantsub](https://github.com/dantsub/) :octocat:
+**Joshua Martinez** - [dantsub](https://github.com/dantsub) :octocat: | linkedIn: [danstub](www.linkedin.com/in/dantsub/) | Twitter: [@DanyJoshi](https://twitter.com/DanyJoshi)
